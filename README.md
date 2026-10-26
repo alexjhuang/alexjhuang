@@ -16,8 +16,8 @@
 ### Around here
 
 - [`personal-site`](https://github.com/alexjhuang/personal-site) — my corner of the web
-- [`IMC-Prosperity-2024`](https://github.com/alexjhuang/IMC-Prosperity-2024) — algorithmic trading competition
-- [`NLPAdversarialDefense`](https://github.com/alexjhuang/NLPAdversarialDefense) — defending language models against adversarial inputs
+- [`polyviz`](https://github.com/alexjhuang/polyviz) — live polyhedral visualizer for Python loop nests ([try it](https://alexjhuang.github.io/polyviz/))
+- [`billiard-breaker`](https://github.com/alexjhuang/billiard-breaker) — Breakout whose game logic runs on a billiard-ball cellular automaton ([play it](https://alexjhuang.github.io/billiard-breaker/))
 
 ### Say hello
 
