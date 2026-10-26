@@ -9,7 +9,7 @@
 
 ### What I do
 
-- 🧩 Build the [NKI](https://github.com/aws-neuron/nki-samples) compiler: Python → MLIR → hardware
+- 🧩 Build the [NKI](https://awsdocs-neuron.readthedocs-hosted.com/en/latest/nki/index.html) compiler: Python → MLIR → hardware
 - ✍️ Write about compilers, hardware, and whatever else I am learning on [Substack](https://substack.com/@alexjhuang)
 - 🎾 Off the clock: tennis, climbing, and guitar
 
