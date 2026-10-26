@@ -19,6 +19,17 @@
 - [`polyviz`](https://github.com/alexjhuang/polyviz) — live polyhedral visualizer for Python loop nests ([try it](https://alexjhuang.github.io/polyviz/))
 - [`billiard-breaker`](https://github.com/alexjhuang/billiard-breaker) — Breakout whose game logic runs on a billiard-ball cellular automaton ([play it](https://alexjhuang.github.io/billiard-breaker/))
 
+<table>
+  <tr>
+    <td width="50%"><a href="https://alexjhuang.github.io/polyviz/"><img src="assets/polyviz.png" alt="polyviz showing the causal iteration domain of KV-cache attention"></a></td>
+    <td width="50%"><a href="https://alexjhuang.github.io/billiard-breaker/"><img src="assets/billiard-breaker.jpg" alt="billiard-breaker: Breakout beside the billiard-ball computer that runs it"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>polyviz: causal KV-cache attention as a polyhedron</sub></td>
+    <td align="center"><sub>billiard-breaker: every frame computed by bouncing balls</sub></td>
+  </tr>
+</table>
+
 ### Say hello
 
 Open an issue, start a discussion, or find me on [LinkedIn](https://www.linkedin.com/in/alexjhuang).
