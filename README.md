@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alex 👋</h1>
 
 <p align="center">
-  ML compiler engineer. I work on the compiler stack for <a href="https://aws.amazon.com/ai/machine-learning/trainium/">AWS Trainium</a>,
+  I work on the compiler stack for <a href="https://aws.amazon.com/ai/machine-learning/trainium/">AWS Trainium</a>,
   turning Python kernels into code that runs well on custom silicon.
 </p>
 
